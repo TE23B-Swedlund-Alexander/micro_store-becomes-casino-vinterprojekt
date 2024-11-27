@@ -1,0 +1,32 @@
+ide
+börja med 100 pengar
+välj ett av tre spel att spela
+välj mängd pengar att spela
+spela spelet
+välj om du vill spela igen eller om du vill casha ut 
+om du cashar ut får du se hur mycket pengar du har sen slut annars repeat
+
+dice
+slå två d6
+om summan är 7 vinner du 3x 
+om summan är 2 eller 12 vinner du x5
+
+roulette
+välj färg eller siffra röd/svart/1-50
+"snurra" hjulet
+ger en random siffra jämn är svart ojämn är röd
+rätt färg x2
+rätt siffra x50
+
+blackjack
+random två kort
+2-10 är 2-10 11,12,13 är 10  1 är 1 eller 10
+väljer hit of stay
+över 21 förlorar
+när stay
+dealer får två kort
+om under 17 får ett till annars stay
+om du får mer än dealern men under 22 så vinner du x2 
+lika är förlust för dig
+
+
