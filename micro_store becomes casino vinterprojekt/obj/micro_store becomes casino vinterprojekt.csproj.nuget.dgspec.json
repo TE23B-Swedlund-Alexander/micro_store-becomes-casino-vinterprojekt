@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj": {}
+    "c:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj": {
+    "c:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj",
+        "projectUniqueName": "c:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj",
         "projectName": "micro_store becomes casino vinterprojekt",
-        "projectPath": "C:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj",
+        "projectPath": "c:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt.csproj",
         "packagesPath": "C:\\Users\\alexander.swedlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\obj\\",
+        "outputPath": "c:\\Users\\alexander.swedlund\\New folder\\micro_store becomes casino vinterprojekt\\micro_store becomes casino vinterprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

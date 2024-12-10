@@ -1,0 +1,15 @@
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\bin\Debug\net8.0\micro_store becomes casino vinterprojekt.exe
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\bin\Debug\net8.0\micro_store becomes casino vinterprojekt.deps.json
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\bin\Debug\net8.0\micro_store becomes casino vinterprojekt.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\bin\Debug\net8.0\micro_store becomes casino vinterprojekt.dll
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\bin\Debug\net8.0\micro_store becomes casino vinterprojekt.pdb
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.sourcelink.json
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.dll
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\refint\micro_store becomes casino vinterprojekt.dll
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.pdb
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\micro_store becomes casino vinterprojekt.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\micro_store becomes casino vinterprojekt\micro_store becomes casino vinterprojekt\obj\Debug\net8.0\ref\micro_store becomes casino vinterprojekt.dll

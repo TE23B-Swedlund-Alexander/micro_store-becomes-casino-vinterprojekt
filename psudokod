@@ -12,21 +12,20 @@ om summan är 7 vinner du 3x
 om summan är 2 eller 12 vinner du x5
 
 roulette
-välj färg eller siffra röd/svart/1-50
+välj färg eller siffra röd/svart/grön/1-50
 "snurra" hjulet
-ger en random siffra jämn är svart ojämn är röd
+ger en random siffra jämn är svart ojämn är röd 1 och 50 är grön
 rätt färg x2
-rätt siffra x50
+rätt grön x14
+rätt siffra x30
 
 blackjack
 random två kort
 2-10 är 2-10 11,12,13 är 10  1 är 1 eller 10
-väljer hit of stay
+väljer hit eller stay
 över 21 förlorar
 när stay
 dealer får två kort
 om under 17 får ett till annars stay
 om du får mer än dealern men under 22 så vinner du x2 
 lika är förlust för dig
-
-
