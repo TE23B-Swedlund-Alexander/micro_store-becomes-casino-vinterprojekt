@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("micro_store becomes casino vinterprojekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f0ff59e62f822b8f91ebb9bed639467892886e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4786c702c3b7dd5514303a445bf20a8c28aae379")]
 [assembly: System.Reflection.AssemblyProductAttribute("micro_store becomes casino vinterprojekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("micro_store becomes casino vinterprojekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
